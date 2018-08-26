@@ -1,0 +1,11 @@
+body h1 {
+    color: red;
+}
+
+body .list li {
+    color: red;
+}
+
+body .wrapper button {
+    color: red;
+}
