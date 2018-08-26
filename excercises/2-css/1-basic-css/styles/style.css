@@ -13,10 +13,19 @@ p {
     width: 50%;
 }
 
+p, h1, h3 {
+    color: #b92a56;
+}
+
 a {
     font-weight: bold;
     color: green;
 }
+
+a[name="link"] {
+    color: #4e1448;
+}
+
 
 img {
     border: 5px solid blue
@@ -28,7 +37,7 @@ img {
 }
 
 .list li {
-    color: green;
+    color: #4e1448;
 }
 
 .list .boldItem {
@@ -43,7 +52,7 @@ form {
     background: red;
     padding: 20px 40px;
     border: 0;
-    color: #ffffff;
+    color: green;
     margin-left: 40px;
     font-size: 16px;
 }
