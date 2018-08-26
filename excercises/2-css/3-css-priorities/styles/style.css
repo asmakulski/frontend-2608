@@ -1,0 +1,14 @@
+.body h1,
+.body p,
+.body button#button {
+    color: black;
+}
+
+.body headline {
+    color: black;
+}
+
+.body .list li {
+    color: black;
+}
+
